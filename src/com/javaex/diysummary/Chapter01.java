@@ -1,4 +1,4 @@
-package com.javaex.DIYsummary;
+package com.javaex.diysummary;
 
 public class Chapter01 {
 	public static void main(String[] args) {
