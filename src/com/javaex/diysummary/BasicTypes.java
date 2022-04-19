@@ -1,6 +1,6 @@
 package com.javaex.diysummary;
 
-public class Chapter01 {
+public class BasicTypes {
 	public static void main(String[] args) {
 		
 		//building logics
