@@ -45,7 +45,6 @@ public class Ex01 {
 		
 		for(Person newPeople : pList) {
 			String saveData = newPeople.getName() + "," + newPeople.getHp() + "," + newPeople.getCompany();
-			System.out.println(saveData);
 			
 			bw.write(saveData);
 			bw.newLine();
@@ -53,8 +52,6 @@ public class Ex01 {
 		
 		bw.close();
 		br.close();
-		
-		
 		
 	}
 
